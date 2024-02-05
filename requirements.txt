@@ -1,0 +1,4 @@
+Flask==2.0.3
+Pillow==9.0.1
+stegano==0.9.8
+Werkzeug==2.0.3
