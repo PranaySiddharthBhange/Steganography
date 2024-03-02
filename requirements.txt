@@ -1,4 +1,4 @@
-Flask=1.0.0
-Pillow=7.0.0
-stegano=0.9.8
-Werkzeug=0.16.0
+Flask==1.0.0
+Pillow==7.0.0
+stegano==0.9.8
+Werkzeug==0.16.0
