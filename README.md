@@ -22,3 +22,12 @@ This web application allows you to hide a text message inside an image using a s
 
 You can try out the application live [here](http://steganography.pythonanywhere.com/).
 This site will be disabled on Sunday 05 May 2024
+
+If website get disabled then you can pull docker image and run `docker run -p 5000:5000 pranaybhange/steganography`
+
+## Screenshots 
+
+![](https://github.com/PranaySiddharthBhange/Steganography/assets/125269727/3d42ced7-071b-4091-9463-11fb301d32f3)
+
+## Working on hiding complete folder inside image code done UI remaining
+
